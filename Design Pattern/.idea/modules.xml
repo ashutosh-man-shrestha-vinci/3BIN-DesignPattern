@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dp_03/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/dp_03/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_08/Desktop/Design Pattern/dp_03/AbstractFactory/AbstractFactory2.iml" filepath="$PROJECT_DIR$/dp_08/Desktop/Design Pattern/dp_03/AbstractFactory/AbstractFactory2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design Pattern.iml" filepath="$PROJECT_DIR$/.idea/Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_08/Desktop/Design Pattern/Examen2020_Q1/Examen2020_Q1.iml" filepath="$PROJECT_DIR$/dp_08/Desktop/Design Pattern/Examen2020_Q1/Examen2020_Q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen/Examen2020/Examen2020_Q2/Examen2020_Q2.iml" filepath="$PROJECT_DIR$/Examen/Examen2020/Examen2020_Q2/Examen2020_Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen/Examen2020/Examen2020_Q1/Examen2020_Q3.iml" filepath="$PROJECT_DIR$/Examen/Examen2020/Examen2020_Q1/Examen2020_Q3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_08/Desktop/Design Pattern/Examen202_Q2/Examen202_Q2.iml" filepath="$PROJECT_DIR$/dp_08/Desktop/Design Pattern/Examen202_Q2/Examen202_Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_01/dp_01.iml" filepath="$PROJECT_DIR$/dp_01/dp_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_02/dp_02.iml" filepath="$PROJECT_DIR$/dp_02/dp_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_08/Desktop/Design Pattern/dp_03/dp_03.iml" filepath="$PROJECT_DIR$/dp_08/Desktop/Design Pattern/dp_03/dp_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_08/Desktop/Design Pattern/dp_04/dp_04.iml" filepath="$PROJECT_DIR$/dp_08/Desktop/Design Pattern/dp_04/dp_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_08/Desktop/Design Pattern/dp_05/dp_05.iml" filepath="$PROJECT_DIR$/dp_08/Desktop/Design Pattern/dp_05/dp_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_08/Desktop/Design Pattern/dp_06/dp_06.iml" filepath="$PROJECT_DIR$/dp_08/Desktop/Design Pattern/dp_06/dp_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_08/dp_08.iml" filepath="$PROJECT_DIR$/dp_08/dp_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_09/dp_09.iml" filepath="$PROJECT_DIR$/dp_09/dp_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_08/Desktop/Design Pattern/dp_01/dp_2.iml" filepath="$PROJECT_DIR$/dp_08/Desktop/Design Pattern/dp_01/dp_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_08/Desktop/Design Pattern/dp_02/dp_3.iml" filepath="$PROJECT_DIR$/dp_08/Desktop/Design Pattern/dp_02/dp_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_03/dp_4.iml" filepath="$PROJECT_DIR$/dp_03/dp_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_04/dp_5.iml" filepath="$PROJECT_DIR$/dp_04/dp_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_05/dp_6.iml" filepath="$PROJECT_DIR$/dp_05/dp_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_06/dp_7.iml" filepath="$PROJECT_DIR$/dp_06/dp_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen/Examen2020/examen2020_Q3/examen2020_Q3.iml" filepath="$PROJECT_DIR$/Examen/Examen2020/examen2020_Q3/examen2020_Q3.iml" />
+    </modules>
+  </component>
+</project>

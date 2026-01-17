@@ -1,0 +1,12 @@
+Design pattern examen2020 ex Q2
+
+
+State : Etat
+Context : Player
+ConcreteStateA : READY
+ConcreteStateB : PLAYING
+ConcreteStateC :LOCK
+
+Request() : onLock() , onPlay() , onNext() , onPrevious()
+handle() : etat.onPlay , etat.onLock, etat.onNext , etat.onPrevious
+setEtat(Mode etat);

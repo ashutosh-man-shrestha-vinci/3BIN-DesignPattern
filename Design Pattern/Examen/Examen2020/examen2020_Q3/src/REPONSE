@@ -1,0 +1,44 @@
+Nom du Pattern 1: Command
+Participants théoriques     Noms utilisés dans le code
+Invoker :                            Execution       (Celui qui va invoker les méthodes)
+Commande(interface):                 Action
+Receiver :                           Tour
+ConcreteCommande :                 ActionConsole , ActionGui
+
+
+Nom théorique des méthodes                              Nom utilisé dans le code
+execute()                                                 effectuer()
+
+Nom du Pattern 2: Iterator
+Participants théoriques         Noms utilisés dans le code
+Aggregate :                     Hanoi
+Iterator  :                     Iterator<DeplacementDisque>
+ConcreteAggregate :             Hanoi
+ConcreteIterator :              DeplacementTour -> ArrayList
+
+Nom théorique des méthodes      Nom utilisé dans le code
+next()                          next()
+hasNext()                       hasNext()
+iterator()                      iterator()
+
+Nom du Pattern 3:Composite
+Participants théoriques         Noms utilisés dans le code
+Component(interface)            Deplacement
+Composite :                     DeplacementTour
+Leaf :                          DeplacementDisque
+
+
+Nom théorique des méthodes      Nom utilisé dans le code
+operation()                     stocker()
+
+Nom du Pattern 4: Observer
+Participants théoriques         Noms utilisés dans le code
+Observer(interface) :           Vue
+Subject :                       Execution
+ConcreteObserver :              GUI, Console
+
+Nom théorique des méthodes      Nom utilisé dans le code
+update()                        update()
+
+
+Ma solution prendre avec des pincettes..

@@ -33,7 +33,7 @@ public class EstMorte extends Situation {
 
   public void generer(Cellule cellule, JeuDeLaVie jeu, List<Activite> activites,
       Parcourir parcourt) {
-    parcourt.parcourtCelluleMorte(cellule, jeu, activites);
+    parcourt.parcourtCelluleMorte(cellule, jeu, activites);donn
   }
 }
 
